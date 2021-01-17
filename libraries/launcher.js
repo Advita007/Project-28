@@ -1,0 +1,1 @@
+attach(stone1);
